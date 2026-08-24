@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-artifacts/*.json
 artifacts/*.pkl
 .DS_Store
 .streamlit/
