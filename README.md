@@ -66,3 +66,7 @@ The full dataset on Kaggle.
 ## Tech stack
 
 Python · librosa · NumPy · scikit-learn · Joblib · Streamlit · Matplotlib
+
+## Streamlit Cloud deployment
+
+In Streamlit Community Cloud, choose **Python 3.12** in **Advanced settings** before deploying. The saved model was trained with `scikit-learn==1.5.1`, which supports Python 3.9-3.12. The `requirements.txt` file uses NumPy 2.x because the committed `artifacts/model.joblib` was saved with NumPy 2.x internals.
