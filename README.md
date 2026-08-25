@@ -4,8 +4,8 @@ Classifies speech recordings as **Genuine (Human)** or **Deepfake (AI-generated)
 
 ## Links
 
-- **GitHub:** [https://github.com/aara19/deepfake-audio-detection](https://github.com/anushkasomani/deepfake-detect)
-- **Live demo:** [https://deepfake_audio.streamlit.app](https://deepfake-detect-123.streamlit.app)
+
+- **Live demo:** [[https://deepfake_audio.streamlit.app](https://deepfake-detect-123.streamlit.app)](https://deepfake-detect-123.streamlit.app)
 - **Dataset:** [Fake-or-Real (for-norm)](https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset)
 
 ## Problem
